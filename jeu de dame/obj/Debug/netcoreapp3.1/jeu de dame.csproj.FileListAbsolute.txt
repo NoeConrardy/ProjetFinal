@@ -1,0 +1,13 @@
+H:\projet benoit\jeu de dame\jeu de dame\bin\Debug\netcoreapp3.1\jeu de dame.exe
+H:\projet benoit\jeu de dame\jeu de dame\bin\Debug\netcoreapp3.1\jeu de dame.deps.json
+H:\projet benoit\jeu de dame\jeu de dame\bin\Debug\netcoreapp3.1\jeu de dame.runtimeconfig.json
+H:\projet benoit\jeu de dame\jeu de dame\bin\Debug\netcoreapp3.1\jeu de dame.runtimeconfig.dev.json
+H:\projet benoit\jeu de dame\jeu de dame\bin\Debug\netcoreapp3.1\jeu de dame.dll
+H:\projet benoit\jeu de dame\jeu de dame\bin\Debug\netcoreapp3.1\jeu de dame.pdb
+H:\projet benoit\jeu de dame\jeu de dame\obj\Debug\netcoreapp3.1\jeu de dame.csprojAssemblyReference.cache
+H:\projet benoit\jeu de dame\jeu de dame\obj\Debug\netcoreapp3.1\jeu de dame.AssemblyInfoInputs.cache
+H:\projet benoit\jeu de dame\jeu de dame\obj\Debug\netcoreapp3.1\jeu de dame.AssemblyInfo.cs
+H:\projet benoit\jeu de dame\jeu de dame\obj\Debug\netcoreapp3.1\jeu de dame.csproj.CoreCompileInputs.cache
+H:\projet benoit\jeu de dame\jeu de dame\obj\Debug\netcoreapp3.1\jeu de dame.dll
+H:\projet benoit\jeu de dame\jeu de dame\obj\Debug\netcoreapp3.1\jeu de dame.pdb
+H:\projet benoit\jeu de dame\jeu de dame\obj\Debug\netcoreapp3.1\jeu de dame.genruntimeconfig.cache
